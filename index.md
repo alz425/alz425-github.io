@@ -5,7 +5,7 @@ Hello! Welcome to my personal website. I am Alicia Zhang, a junior majoring in F
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/alz425/alz425.github.io/raw/master/images/Business Profile Headshot.png" width="50%">
+  <img class="img-circle" src="https://github.com/alz425/alz425-github.io/raw/master/images/Business Profile Headshot.png" width="50%">
 </p>
 
 ---
