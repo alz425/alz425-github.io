@@ -1,13 +1,11 @@
 ## About Me
 
-What's up? hey\|you
-
-I am an awesome student at Lehigh, you should hire me!
+Hello! Welcome to my personal website. I am Alicia Zhang, a junior majoring in Finance and Economics at Lehigh University.
 
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
+  <img class="img-circle" src="https://github.com/alz425/alz425.github.io/raw/master/images/Business Profile Headshot.png" width="50%">
 </p>
 
 ---
@@ -46,15 +44,16 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+I 
 
 ---
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+- Hiking
+- Fishing
+- Reading
+- Drawing
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
