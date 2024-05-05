@@ -14,13 +14,13 @@ Hello! Welcome to my personal website. I am Alicia Zhang, a junior majoring in F
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Regression Assignment](regression)**_
+_**[Regression Assignment](regression.md)**_
 
 The above link features my work in EDA, running regressions, and regression interpretation concerning a housing dataset.
 
 ---
 
-_**[Merging Assignment](asgn04exercises)**_
+_**[Merging Assignment](asgn04exercises.md)**_
 
 In this assignment, I explored patent data and implemented merges. The graph below concerns the time trends for industry averages, the answer to one of the questions. 
 
