@@ -1,6 +1,6 @@
 ## About Me
 
-Hello! Welcome to my personal website. I am Alicia Zhang, a junior majoring in Finance and Economics at Lehigh University.
+Hello! Welcome to my personal website. I am Alicia Zhang, a junior majoring in Finance and Economics at Lehigh University with a minor in International Relations.
 
 <!-- Upload your own photo and change the path -->
 
@@ -44,7 +44,7 @@ Take a look at the code behind my team's dashboard, which allows users to build 
 
 ## Career Objectives
 
-I 
+I am interested in pursuing a career that combines my interest in both Finance and Economics, while also being able to help my community. Being able to see that I have made a genuinely positive impact on others through my work is a critical factor, and I would look for that in any future jobs I take.
 
 ---
 
