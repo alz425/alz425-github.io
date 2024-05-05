@@ -14,19 +14,17 @@ Hello! Welcome to my personal website. I am Alicia Zhang, a junior majoring in F
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
+_**[Regression Assignment](regression)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+The above link features my work in EDA, running regressions, and regression interpretation concerning a housing dataset.
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
+_**[Merging Assignment](asgn04exercises)**_
 
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
+In this assignment, I explored patent data and implemented merges. The graph below concerns the time trends for industry averages, the answer to one of the questions. 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/output_14_0.png?raw=true"/>
 
 ---
 
