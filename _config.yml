@@ -3,7 +3,7 @@ logo: "/images/Business Profile Headshot.png?raw=true" # your photo (or logo) he
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <a href="https://www.linkedin.com/in/alicia-zhang1/">LinkedIn</a> 
   <br>
-  <a href="images/Screenshot_4-5-2024_224321_.jpeg">Resume</a>  
+  <a href="images/Screenshot_4-5-2024_224321_.jpeg"><img src="images/Screenshot_4-5-2024_224321_.jpeg" alt="Resume"></a>
   <br>
   <a href="https://www.GitHub.com/alz425/">GitHub</a>  
 
