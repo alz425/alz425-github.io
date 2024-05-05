@@ -28,15 +28,17 @@ In this assignment, I explored patent data and implemented merges. The graph bel
 
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
+_**[Plotting Mechanics and EDA Assignment](asgn03exercises.md)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Using firm data, I created a variety of graphs ranging from bar graphs to box plots to scatter plots and closing with a heatmap, with an example below. 
+
+<img src="images/output_25_0.png?raw=true"/>
 
 ---
 
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
+_**[Final Project Dashboard Github Work](https://github.com/alz425/loan_default_pipeline)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Take a look at the code behind my team's dashboard, which allows users to build their own model with the options provided and see how well their model performs. 
 
 ---
 
